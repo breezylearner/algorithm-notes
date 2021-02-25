@@ -1,3 +1,3 @@
 # algorithm-notes
 
-## 跳水版问题
+## 跳水版
